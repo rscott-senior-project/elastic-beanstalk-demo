@@ -1,0 +1,14 @@
+{
+  "name": "codepipeline-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
